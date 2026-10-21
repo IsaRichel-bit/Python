@@ -9,3 +9,5 @@ print("Dezena:", dezena)
 print("Unidade:", unidade)
 
 print("Número invertido:", unidade * 100 + dezena * 10 + centena)
+
+
